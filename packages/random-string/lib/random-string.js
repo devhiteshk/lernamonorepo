@@ -1,7 +1,7 @@
 "use strict";
 
 const charactersSet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-
+// function returns random string
 // 1
 function randomString(len = 5) {
   const str = [...Array(len)]
