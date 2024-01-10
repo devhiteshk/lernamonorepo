@@ -1,5 +1,5 @@
 {
-  "name": "@devhiteshk/random-string",
+  "name": "@devhiteshk/random-str",
   "version": "0.0.10",
   "description": "> TODO: description",
   "author": "devhiteshk <hitesh.k.83080@gmail.com>",
@@ -19,5 +19,5 @@
   "publishConfig": {
     "@devhiteshk:registry": "https://npm.pkg.github.com/"
   },
-  "gitHead": "7025afb90455014e647db07f88d0e8eea9d1364b"
+  "gitHead": "7f5ecd89c6d95442ba8e28e58db06133f908111a"
 }
