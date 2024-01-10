@@ -29,6 +29,6 @@ jobs:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
       - run: npm ci
-      - run:  publish --yes --message 'chore:release new versions'
+      - run: lerna publish --yes --message 'chore:release new versions'
         env:
           NODE_AUTH_TOKEN: ${{secrets.PUBLISH_TOKEN}}
