@@ -17,6 +17,7 @@
     "test": "node ./__tests__/random-string.test.js"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+    "@devhiteshk:registry": "https://npm.pkg.github.com/"
+  },
+  "gitHead": "49c85ab2ef5b919f36ebf83785fe7e7df5870fcd"
 }
