@@ -17,6 +17,6 @@
     "test": "node ./__tests__/random-number.test.js"
   },
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
