@@ -8,5 +8,8 @@
   "devDependencies": {
     "lerna": "^8.0.2"
   },
-  "version": "independent"
+  "version": "independent",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
